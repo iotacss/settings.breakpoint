@@ -1,4 +1,4 @@
-# Breakpoint Settings #
+# [Deprecated in v1.0] Breakpoint Settings
 
 Breakpoint settings file contains a list of the breakpoint sizes.
 
